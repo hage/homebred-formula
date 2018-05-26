@@ -1,4 +1,4 @@
-class Cask < Formula
+class Cask083 < Formula
   desc "Emacs dependency management"
   homepage "https://cask.readthedocs.org/"
   url "https://github.com/cask/cask/archive/v0.8.3.tar.gz"
